@@ -1,1 +1,1 @@
-web: npm start
+web: node /home/corvus/Desktop/Full-stack-book-site/sever.js
