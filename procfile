@@ -1,1 +1,1 @@
-web: node /home/corvus/Desktop/Full-stack-book-site/sever.js
+web: node sever.js
